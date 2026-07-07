@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Comic Craft Studios</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 20px;
+            line-height: 1.8;
+            color: #333;
+            background: #F8F9FA;
+        }
+        .container {
+            background: #fff;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 2px 10px rgba(0,0,0,.08);
+        }
+        h1, h2 {
+            color: #1A73E8;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        footer {
+            margin-top: 40px;
+            text-align: center;
+            color: #777;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+
+<h1>Privacy Policy</h1>
+
+<p><strong>Last Updated:</strong> July 7, 2026</p>
+
+<p>Comic Craft Studios ("we", "our", or "us") values your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile applications and services.</p>
+
+<h2>Information We Collect</h2>
+
+<ul>
+<li>Device information</li>
+<li>Operating system and device model</li>
+<li>App usage analytics</li>
+<li>Crash reports</li>
+<li>Subscription and purchase information processed by Apple or Google</li>
+<li>Information you voluntarily provide when contacting support</li>
+</ul>
+
+<p>We do not collect personally identifiable information unless you voluntarily provide it.</p>
+
+<h2>How We Use Information</h2>
+
+<ul>
+<li>Improve app performance</li>
+<li>Provide customer support</li>
+<li>Fix bugs and crashes</li>
+<li>Analyze app usage</li>
+<li>Process subscriptions and purchases</li>
+<li>Maintain app security</li>
+</ul>
+
+<h2>Third-Party Services</h2>
+
+<p>Our applications may use trusted third-party services including:</p>
+
+<ul>
+<li>Google Play Services</li>
+<li>Google Analytics for Firebase</li>
+<li>Firebase Crashlytics</li>
+<li>Google AdMob (where applicable)</li>
+<li>AppLovin MAX (where applicable)</li>
+<li>AppsFlyer (where applicable)</li>
+<li>Apple App Store</li>
+<li>Google Play Billing</li>
+</ul>
+
+<p>These services may collect information according to their own privacy policies.</p>
+
+<h2>Advertising</h2>
+
+<p>Some of our applications may display advertisements provided by trusted advertising partners. Subscription-only apps may not display advertisements.</p>
+
+<h2>Subscriptions</h2>
+
+<p>Subscriptions and in-app purchases are securely processed through Apple App Store or Google Play. We do not collect or store payment information.</p>
+
+<h2>Children's Privacy</h2>
+
+<p>We do not knowingly collect personal information from children. If you believe a child has provided personal information, please contact us.</p>
+
+<h2>Data Security</h2>
+
+<p>We use reasonable security measures to protect your information. However, no method of electronic transmission or storage is completely secure.</p>
+
+<h2>Your Rights</h2>
+
+<p>Depending on your country or region, you may have the right to access, correct, delete, or restrict the use of your personal information.</p>
+
+<h2>Changes to This Policy</h2>
+
+<p>We may update this Privacy Policy from time to time. Changes will be posted on this page with an updated revision date.</p>
+
+<h2>Contact Us</h2>
+
+<p>If you have any questions regarding this Privacy Policy, please contact us:</p>
+
+<p>
+<strong>Comic Craft Studios</strong><br>
+Email: abbbrecreationn@gmail.com
+</p>
+
+<footer>
+© 2026 Comic Craft Studios. All rights reserved.
+</footer>
+
+</div>
+
+</body>
+</html>
